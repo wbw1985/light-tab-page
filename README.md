@@ -42,3 +42,9 @@ cd light-tab-page
 pnpm install
 pnpm run dev
 ```
+
+##打包：
+sudo npm install
+cd script
+npm run build
+打包dist目录为zip文件
